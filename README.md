@@ -1,6 +1,6 @@
 # Personal Carbon Calculator App 🌱
 
-![Co2.png]
+![Co2.png](https://github.com/Rajesh-1234567/Personal-Carbon-Waste-Calculator-App-using-Streamlit/blob/main/Co2.png)
 
 ### About
 Welcome to the Personal Carbon Calculator App! This tool is designed to help individuals estimate their carbon emissions based on various daily activities such as transportation, electricity consumption, diet, and waste generation. By understanding and quantifying their carbon footprint, users can make informed choices to reduce their impact on the planet.
